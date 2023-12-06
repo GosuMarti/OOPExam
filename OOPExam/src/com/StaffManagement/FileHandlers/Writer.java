@@ -1,6 +1,6 @@
 package com.StaffManagement.FileHandlers;
 
-import com.StaffManagement.Employee;
+import com.StaffManagement.Entity.Employee;
 
 import java.io.FileWriter;
 import java.io.IOException;
