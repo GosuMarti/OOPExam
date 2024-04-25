@@ -1,7 +1,7 @@
-package com.StaffManagement.Services;
+package com.StaffManagement.service;
 
-import com.StaffManagement.Interfaces.Manager;
-import com.StaffManagement.Interfaces.Service;
+import com.StaffManagement.interfaces.Manager;
+import com.StaffManagement.interfaces.Service;
 
 import java.util.Arrays;
 import static java.lang.System.exit;

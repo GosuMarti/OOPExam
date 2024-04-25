@@ -1,4 +1,4 @@
-package com.StaffManagement.Entity;
+package com.StaffManagement.entity;
 public class Employee{
     private int ID;
     private String name;

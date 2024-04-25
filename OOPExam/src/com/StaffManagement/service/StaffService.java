@@ -1,9 +1,9 @@
-package com.StaffManagement.Services;
+package com.StaffManagement.service;
 
-import com.StaffManagement.Entity.Employee;
-import com.StaffManagement.FileHandlers.Reader;
-import com.StaffManagement.FileHandlers.Writer;
-import com.StaffManagement.Interfaces.Service;
+import com.StaffManagement.entity.Employee;
+import com.StaffManagement.filehandler.Reader;
+import com.StaffManagement.filehandler.Writer;
+import com.StaffManagement.interfaces.Service;
 
 import java.util.*;
 public class StaffService implements Service {

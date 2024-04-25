@@ -1,13 +1,13 @@
 package com.StaffManagement;
-import com.StaffManagement.Interfaces.Manager;
-import com.StaffManagement.Interfaces.Service;
-import com.StaffManagement.Services.StaffManager;
-import com.StaffManagement.Services.StaffService;
+import com.StaffManagement.interfaces.Manager;
+import com.StaffManagement.interfaces.Service;
+import com.StaffManagement.service.StaffManager;
+import com.StaffManagement.service.StaffService;
 
 import java.util.Scanner;
 
-import static com.StaffManagement.Interfaces.Service.reader;
-import static com.StaffManagement.Interfaces.Service.writer;
+import static com.StaffManagement.interfaces.Service.reader;
+import static com.StaffManagement.interfaces.Service.writer;
 
 public class StaffManagementApp {
     public static void main(String[] args) {
